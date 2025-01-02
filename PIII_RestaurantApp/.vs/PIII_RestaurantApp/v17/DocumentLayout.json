@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\views\\usermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|c:\\users\\selina\\source\\repos\\piii_restaurantapp\\piii_restaurantapp\\piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -74,8 +74,7 @@
               "RelativeToolTip": "PIII_RestaurantApp\\Data\\Customer.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-01-02T20:18:30.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T20:18:30.342Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T19:43:01.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T19:43:01.487Z"
             },
             {
               "$type": "Document",
@@ -99,8 +97,7 @@
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
               "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T19:41:58.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T19:41:58.247Z"
             },
             {
               "$type": "Document",
@@ -112,8 +109,7 @@
               "RelativeToolTip": "PIII_RestaurantApp\\Services\\CustomerService.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAzwIEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T16:28:08.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T16:28:08.065Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "PIII_RestaurantApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:57:48.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:57:48.626Z"
             },
             {
               "$type": "Document",
@@ -147,7 +142,7 @@
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
               "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:53:32.606Z",
               "EditorCaption": ""
@@ -161,8 +156,7 @@
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml",
               "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-01T21:55:37.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T21:55:37.546Z"
             }
           ]
         }

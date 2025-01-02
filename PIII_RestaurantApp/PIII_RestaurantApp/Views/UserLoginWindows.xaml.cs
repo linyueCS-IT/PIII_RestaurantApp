@@ -55,27 +55,9 @@ namespace PIII_RestaurantApp.Views
 
         private void BtnUserCancel_Clicked(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private bool IsValidateLogin(string userName, string password)
-        {
-            // Check username
-            if (string.IsNullOrWhiteSpace(userName))
-            {
-                MessageBox.Show("Username cannot be empty", "Validation Error",
-                    MessageBoxButton.OK, MessageBoxImage.Warning);
-                return false;
-            }
-            // Check password
-            if (string.IsNullOrWhiteSpace(password))
-            {
-                MessageBox.Show("Password cannot be empty", "Validation Error",
-                    MessageBoxButton.OK, MessageBoxImage.Warning);
-                return false;
-            }
-            return true;
-        }
-    
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            this.Close();
+        }    
     }
 }
