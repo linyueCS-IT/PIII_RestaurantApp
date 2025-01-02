@@ -1,1 +1,2 @@
-id,username,email,firstname,lastname,password,phone,address
+id,username,emaile,password,firstname,lastnam,phone,address
+1,selina,selina_yue@hotmail.com,123456,,,, 

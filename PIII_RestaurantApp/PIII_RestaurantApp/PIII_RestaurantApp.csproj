@@ -56,8 +56,12 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Services\CustomerService.cs" />
     <Compile Include="Views\UserLoginWindows.xaml.cs">
       <DependentUpon>UserLoginWindows.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserMenuWindow.xaml.cs">
+      <DependentUpon>UserMenuWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\UserSignUpWindow.xaml.cs">
       <DependentUpon>UserSignUpWindow.xaml</DependentUpon>
@@ -75,6 +79,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Views\UserLoginWindows.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\UserMenuWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -110,9 +118,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Resource Include="Images\Dessert\apple_pie.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

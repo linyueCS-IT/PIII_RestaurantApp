@@ -17,3 +17,5 @@ C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_Restaura
 C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\obj\Debug\Views\UserLoginWindows.baml
 C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\obj\Debug\Views\UserSignUpWindow.g.cs
 C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\obj\Debug\Views\UserSignUpWindow.baml
+C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\obj\Debug\Views\UserMenuWindow.g.cs
+C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\obj\Debug\Views\UserMenuWindow.baml

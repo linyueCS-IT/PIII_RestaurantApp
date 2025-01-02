@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|c:\\users\\selina\\source\\repos\\piii_restaurantapp\\piii_restaurantapp\\piii_restaurantapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|c:\\users\\selina\\source\\repos\\piii_restaurantapp\\piii_restaurantapp\\piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\views\\userloginwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|c:\\users\\selina\\source\\repos\\piii_restaurantapp\\piii_restaurantapp\\piii_restaurantapp\\views\\userloginwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\views\\userloginwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\views\\usermenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\views\\usermenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\views\\userloginwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\views\\userloginwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\views\\usermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\views\\usermenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|c:\\users\\selina\\source\\repos\\piii_restaurantapp\\piii_restaurantapp\\piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\data\\customer.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\piii_restaurantapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C4B5EF0-2551-4A6D-8080-A1FC5C7526AF}|PIII_RestaurantApp\\PIII_RestaurantApp.csproj|solutionrelative:piii_restaurantapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,85 +61,100 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "PIII_RestaurantApp\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Services\\CustomerService.cs*",
-              "RelativeToolTip": "PIII_RestaurantApp\\Services\\CustomerService.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAmwDAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T15:16:02.971Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Customer.csv",
               "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Data\\Customer.csv",
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\Data\\Customer.csv",
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Data\\Customer.csv",
               "RelativeToolTip": "PIII_RestaurantApp\\Data\\Customer.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-01-01T22:24:11.355Z",
+              "WhenOpened": "2025-01-02T20:18:30.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserMenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserMenuWindow.xaml.cs",
+              "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:43:01.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserMenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
+              "RelativeDocumentMoniker": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
+              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
+              "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserMenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T19:41:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "PIII_RestaurantApp\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Services\\CustomerService.cs",
+              "RelativeToolTip": "PIII_RestaurantApp\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAzwIEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:28:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\MainWindow.xaml",
               "RelativeToolTip": "PIII_RestaurantApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-01T22:21:37.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T22:21:37.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "PIII_RestaurantApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:57:48.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "PIII_RestaurantApp\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Models\\Customer.cs",
-              "RelativeToolTip": "PIII_RestaurantApp\\Models\\Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T22:12:59.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserLoginWindows.xaml.cs",
               "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
-              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs*",
-              "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAswDgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
+              "RelativeToolTip": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T21:53:32.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UserLoginWindows.xaml",
               "DocumentMoniker": "C:\\Users\\selina\\source\\repos\\PIII_RestaurantApp\\PIII_RestaurantApp\\PIII_RestaurantApp\\Views\\UserLoginWindows.xaml",
               "RelativeDocumentMoniker": "PIII_RestaurantApp\\Views\\UserLoginWindows.xaml",

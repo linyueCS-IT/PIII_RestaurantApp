@@ -12,6 +12,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using PIII_RestaurantApp.Models;
+using PIII_RestaurantApp.Services;
 
 namespace PIII_RestaurantApp.Views
 {
@@ -20,16 +22,35 @@ namespace PIII_RestaurantApp.Views
     /// </summary>
     public partial class UserLoginWindows : Window
     {
+        private Customer _customer;
+        private CustomerService _customerService;
+
+        #region Constructor
         public UserLoginWindows()
         {
             InitializeComponent();
+            _customer = new Customer();
+            _customerService = new CustomerService();
         }
-
+        #endregion
         private void BtnUserLogin_Clicked(object sender, RoutedEventArgs e)
         {
             string userName = txtUsername.Text;
-            string password = txtPassword.Text;
-            
+            string password = txtPassword.Text; 
+            _customer = _customerService.IsValidateLogin(userName, password);
+
+            if ( _customer != null )
+            {
+                UserMenuWindow userMenuWindow = new UserMenuWindow(_customer);
+                userMenuWindow.Show();
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("username or password is not correct!");
+                txtUsername.Text = null;
+                txtPassword.Text = null;
+            }
         }
 
         private void BtnUserCancel_Clicked(object sender, RoutedEventArgs e)
@@ -55,11 +76,6 @@ namespace PIII_RestaurantApp.Views
             }
             return true;
         }
-        //private List<string> GetUsernameList()
-        //{
-        //    string customerCsvFilePath = "/Data/Customer.csv";
-
-        //    StreamReader reader = new StreamReader(customerCsvFilePath);
-        //}
+    
     }
 }

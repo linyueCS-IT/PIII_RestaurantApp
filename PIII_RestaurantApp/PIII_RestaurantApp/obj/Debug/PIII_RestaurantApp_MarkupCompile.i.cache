@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\selina\source\repos\PIII_RestaurantApp\PIII_RestaurantApp\PIII_RestaurantApp\App.xaml
-3-743153251
+450658525
 
-9212524463
+11975949764
 13-1310406943
-MainWindow.xaml;Views\UserLoginWindows.xaml;Views\UserSignUpWindow.xaml;
+MainWindow.xaml;Views\UserLoginWindows.xaml;Views\UserMenuWindow.xaml;Views\UserSignUpWindow.xaml;
 
-False
+True
 
